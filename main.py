@@ -3,6 +3,7 @@ import tkinter as tk
 
 
 print("some text")
+print("name")
 
 def check_number(number):
     # Fibonacci sequence check
