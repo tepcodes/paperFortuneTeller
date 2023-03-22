@@ -2,6 +2,8 @@ import random
 import tkinter as tk
 
 
+print("some text")
+
 def check_number(number):
     # Fibonacci sequence check
     a, b = 0, 1
