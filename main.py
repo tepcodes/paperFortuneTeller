@@ -5,6 +5,8 @@ import tkinter as tk
 print("some text")
 print("name")
 
+print("this is a test bug...")
+
 def check_number(number):
     # Fibonacci sequence check
     a, b = 0, 1
